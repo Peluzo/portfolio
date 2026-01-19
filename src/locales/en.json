@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education",
+    "tech": "Technologies",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "João Vitor Peluzo Cardoso",
+    "title": "AI-Focused Developer. Full-Stack. Machine Learning Engineer.",
+    "description": "AI-focused developer with strong experience in full-stack development and applied machine learning. Skilled in building web applications, training and evaluating models, and designing responsive data-driven solutions.",
+    "contactBtn": "Get in Touch",
+    "resumeBtn": "View Resume"
+  },
+  "about": {
+    "title": "About Me",
+    "intro": "Hello! I'm João Vitor Peluzo Cardoso, an AI-Focused Developer with strong experience in full-stack development and applied machine learning. My journey in technology has led me to work with web development, artificial intelligence, and data-driven solutions, always focusing on creating innovative and efficient applications.",
+    "paragraph1": "Currently based in Montreal, QC, I'm constantly improving my skills in machine learning, full-stack development, artificial intelligence, and data analysis. I work with Python, TensorFlow, React, Vue.js, and modern frameworks to build complete solutions that combine AI and web development.",
+    "motivationTitle": "What motivates me",
+    "paragraph2": "I'm passionate about building intelligent applications that combine web development and machine learning. I develop responsive web applications integrating AI models and modern APIs to create data-driven solutions. I actively participate in AI projects and always seek to stay updated with industry best practices. My goal is to create technological solutions that have real impact and solve real-world problems.",
+    "paragraph3": "With experience in front-end and back-end development, model training, and AI solution deployment, I bring a unique perspective to technical challenges. I work with modern technologies like React, Vue.js, TensorFlow, FastAPI, always focusing on practical and scalable solutions. My commitment to continuous learning drives me to explore new technologies and methodologies to deliver value through technology.",
+    "currentRole": "Current Role",
+    "currentRoleValue": "AI & ML Intern",
+    "company": "Techcolca Inc.",
+    "location": "Location",
+    "locationValue": "Montreal, QC",
+    "country": "Canada",
+    "languages": "Languages",
+    "portuguese": "Portuguese (Native)",
+    "english": "English (Professional)",
+    "spanish": "Spanish",
+    "french": "French",
+    "specialties": "Specialties",
+    "ml": "Machine Learning",
+    "fullstack": "Full-Stack Development",
+    "datascience": "Data Science",
+    "aisolutions": "AI Solutions"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Combining full-stack development experience with expertise in machine learning, artificial intelligence, and data-driven solutions.",
+    "ml": {
+      "title": "Machine Learning & AI",
+      "description": "Developing and training machine learning models using TensorFlow, Keras, scikit-learn, and YOLOv5. Specialized in object detection, data processing, and model optimization."
+    },
+    "fullstack": {
+      "title": "Full-Stack Development",
+      "description": "Building complete web applications using React, Vue.js, JavaScript (ES6+), HTML5, CSS3, and Bootstrap. Integrating REST APIs and WebSocket for real-time solutions."
+    },
+    "python": {
+      "title": "Python & Data Science",
+      "description": "Developing data analysis solutions using Python, Pandas, NumPy, Matplotlib, and scikit-learn. Automating data processing and reducing preprocessing time."
+    },
+    "devops": {
+      "title": "Deploy & DevOps",
+      "description": "Deploying and monitoring models in production environments using FastAPI and Docker. Working with deployment pipelines and performance optimization."
+    },
+    "database": {
+      "title": "Database",
+      "description": "Working with MySQL, SQL, and relational databases. Optimizing queries and integrating data with web applications and ML models."
+    },
+    "performance": {
+      "title": "Optimization & Performance",
+      "description": "Improving web application performance through code refactoring, caching strategies, and front-end optimization. Reducing response times and improving user experience."
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Experience in full-stack development, machine learning, and artificial intelligence, building innovative solutions that combine web technology and AI.",
+    "techcolca": {
+      "company": "Techcolca Inc.",
+      "role": "AI & ML Intern",
+      "location": "Montreal, QC • Remote",
+      "description": "Technology company focused on artificial intelligence and machine learning solutions",
+      "achievements": [
+        "Developed interactive React dashboards for real-time sports analytics visualization, integrating RESTful APIs and WebSocket streams",
+        "Built and trained YOLOv5/Ultralytics object detection models with +10% accuracy improvement using data augmentation and hyperparameter tuning",
+        "Automated dataset processing with Pandas, NumPy, and scikit-learn, reducing manual preprocessing time by 40%",
+        "Deployed and monitored models in production environments using FastAPI and Docker",
+        "Collaborated with cross-functional AI team on model testing, optimization, and deployment pipelines"
+      ]
+    },
+    "dialhost": {
+      "company": "DialHost Internet",
+      "role": "Front-End Developer",
+      "location": "Belo Horizonte, Brazil",
+      "description": "Internet hosting and services company focused on corporate web solutions",
+      "achievements": [
+        "Designed and maintained responsive web applications using React, Vue.js, and Bootstrap for corporate and client platforms",
+        "Integrated REST APIs with Node.js backends, optimizing data flow and improving API response times by 25%",
+        "Improved website performance by 35% through code refactoring, caching strategies, and front-end optimization",
+        "Collaborated in an Agile environment with designers, QA, and backend teams, contributing to faster release cycles and higher customer satisfaction"
+      ]
+    },
+    "freelance": {
+      "company": "Freelance",
+      "role": "Front-End Developer & Computer Technician",
+      "location": "Remote, Brazil",
+      "description": "Working as a freelancer developing customized web solutions for small businesses",
+      "achievements": [
+        "Designed, developed, and deployed custom web solutions for small businesses, enhancing online visibility and customer engagement",
+        "Built responsive interfaces using HTML5, CSS3, JavaScript (ES6+), and React to ensure accessibility across devices",
+        "Provided ongoing technical support, maintenance, and hosting consultation to clients"
+      ]
+    }
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Academic and technical education in information technology, artificial intelligence, and machine learning.",
+    "lasalle": {
+      "institution": "Collège LaSalle",
+      "degree": "AEC - Artificial Intelligence and Machine Learning",
+      "location": "Montreal, QC",
+      "description": "Technical program focused on artificial intelligence and machine learning",
+      "topics": "Key topics:"
+    },
+    "cotemig1": {
+      "institution": "COTEMIG - Colégio e Faculdade",
+      "degree": "Bachelor's Degree - Information Systems",
+      "location": "Belo Horizonte, Brazil",
+      "description": "Undergraduate degree in information systems with focus on web development and technology",
+      "topics": "Key topics:"
+    },
+    "cotemig2": {
+      "institution": "COTEMIG - Colégio e Faculdade",
+      "degree": "Technical Degree - Information Technology",
+      "location": "Belo Horizonte, Brazil",
+      "description": "Technical course in information technology with focus on front-end development",
+      "topics": "Key topics:"
+    }
+  },
+  "tech": {
+    "title": "Tech Stack",
+    "subtitle": "Technical stack focused on full-stack development, machine learning, artificial intelligence, and modern web solutions.",
+    "categories": {
+      "languages": "Programming Languages",
+      "ml": "Machine Learning & AI",
+      "frontend": "Front-End Development",
+      "backend": "Back-End & APIs",
+      "database": "Database",
+      "devops": "DevOps & Deploy"
+    }
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "subtitle": "Send me a message",
+    "description": "Let's connect! I'm always interested in hearing about new projects and opportunities.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Thank you for your message! I'll get back to you soon.",
+    "error": "Error sending message. Please try again.",
+    "contactInfo": "Contact Information",
+    "phone": "Phone",
+    "location": "Location",
+    "locationValue": "Montreal, QC, Canada"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  }
+}
+
+

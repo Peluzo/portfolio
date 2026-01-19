@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "experience": "Experiência",
+    "education": "Educação",
+    "tech": "Tecnologias",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "name": "João Vitor Peluzo Cardoso",
+    "title": "AI-Focused Developer. Full-Stack. Machine Learning Engineer.",
+    "description": "Desenvolvedor focado em IA com experiência sólida em desenvolvimento full-stack e machine learning aplicado. Especializado em construir aplicações web, treinar e avaliar modelos, e projetar soluções responsivas orientadas a dados.",
+    "contactBtn": "Entre em Contato",
+    "resumeBtn": "Ver Currículo"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "intro": "Olá! Sou João Vitor Peluzo Cardoso, um Desenvolvedor focado em IA com experiência sólida em desenvolvimento full-stack e machine learning aplicado. Minha jornada na tecnologia me levou a trabalhar com desenvolvimento web, inteligência artificial e soluções orientadas a dados, sempre focando em criar aplicações inovadoras e eficientes.",
+    "paragraph1": "Atualmente baseado em Montreal, QC, estou constantemente aprimorando minhas habilidades em machine learning, desenvolvimento full-stack, inteligência artificial e análise de dados. Trabalho com Python, TensorFlow, React, Vue.js, e frameworks modernos para construir soluções completas que combinam IA e desenvolvimento web.",
+    "motivationTitle": "O que me motiva",
+    "paragraph2": "Sou apaixonado por construir aplicações inteligentes que combinam desenvolvimento web e machine learning. Desenvolvo aplicações web responsivas integrando modelos de IA e APIs modernas para criar soluções orientadas a dados. Participo ativamente de projetos de IA e busco sempre me atualizar com as melhores práticas da indústria. Meu objetivo é criar soluções tecnológicas que tenham impacto real e resolvam problemas do mundo real.",
+    "paragraph3": "Com experiência em desenvolvimento front-end e back-end, treinamento de modelos e deploy de soluções de IA, trago uma perspectiva única para desafios técnicos. Trabalho com tecnologias modernas como React, Vue.js, TensorFlow, FastAPI, sempre focando em soluções práticas e escaláveis. Meu compromisso com aprendizado contínuo me impulsiona a explorar novas tecnologias e metodologias para entregar valor através da tecnologia.",
+    "currentRole": "Função Atual",
+    "currentRoleValue": "AI & ML Intern",
+    "company": "Techcolca Inc.",
+    "location": "Localização",
+    "locationValue": "Montreal, QC",
+    "country": "Canadá",
+    "languages": "Idiomas",
+    "portuguese": "Português (Nativo)",
+    "english": "Inglês (Profissional)",
+    "spanish": "Espanhol",
+    "french": "Francês",
+    "specialties": "Especialidades",
+    "ml": "Machine Learning",
+    "fullstack": "Full-Stack Development",
+    "datascience": "Data Science",
+    "aisolutions": "AI Solutions"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "subtitle": "Combinando experiência em desenvolvimento full-stack com expertise em machine learning, inteligência artificial e soluções orientadas a dados.",
+    "ml": {
+      "title": "Machine Learning & AI",
+      "description": "Desenvolvendo e treinando modelos de machine learning usando TensorFlow, Keras, scikit-learn e YOLOv5. Especializado em detecção de objetos, processamento de dados e otimização de modelos."
+    },
+    "fullstack": {
+      "title": "Desenvolvimento Full-Stack",
+      "description": "Construindo aplicações web completas usando React, Vue.js, JavaScript (ES6+), HTML5, CSS3 e Bootstrap. Integrando APIs REST e WebSocket para soluções em tempo real."
+    },
+    "python": {
+      "title": "Python & Data Science",
+      "description": "Desenvolvendo soluções de análise de dados usando Python, Pandas, NumPy, Matplotlib e scikit-learn. Automatizando processamento de dados e reduzindo tempo de pré-processamento."
+    },
+    "devops": {
+      "title": "Deploy & DevOps",
+      "description": "Implantando e monitorando modelos em ambientes de produção usando FastAPI e Docker. Trabalhando com pipelines de deploy e otimização de performance."
+    },
+    "database": {
+      "title": "Banco de Dados",
+      "description": "Trabalhando com MySQL, SQL e bancos de dados relacionais. Otimizando consultas e integrando dados com aplicações web e modelos de ML."
+    },
+    "performance": {
+      "title": "Otimização & Performance",
+      "description": "Melhorando performance de aplicações web através de refatoração de código, estratégias de cache e otimização front-end. Reduzindo tempos de resposta e melhorando experiência do usuário."
+    }
+  },
+  "experience": {
+    "title": "Experiência",
+    "subtitle": "Experiência em desenvolvimento full-stack, machine learning e inteligência artificial, construindo soluções inovadoras que combinam tecnologia web e IA.",
+    "techcolca": {
+      "company": "Techcolca Inc.",
+      "role": "AI & ML Intern",
+      "location": "Montreal, QC • Remoto",
+      "description": "Empresa de tecnologia focada em soluções de inteligência artificial e machine learning",
+      "achievements": [
+        "Desenvolvimento de dashboards React interativos para visualização de análises esportivas em tempo real, integrando APIs RESTful e streams WebSocket",
+        "Construção e treinamento de modelos de detecção de objetos YOLOv5/Ultralytics com melhoria de precisão de +10% usando aumento de dados e ajuste de hiperparâmetros",
+        "Automação de processamento de datasets com Pandas, NumPy e scikit-learn, reduzindo tempo de pré-processamento manual em 40%",
+        "Implantação e monitoramento de modelos em ambientes de produção usando FastAPI e Docker",
+        "Colaboração com equipe multidisciplinar de IA em testes, otimização e pipelines de deploy de modelos"
+      ]
+    },
+    "dialhost": {
+      "company": "DialHost Internet",
+      "role": "Front-End Developer",
+      "location": "Belo Horizonte, Brazil",
+      "description": "Empresa de hospedagem e serviços de internet focada em soluções web corporativas",
+      "achievements": [
+        "Design e manutenção de aplicações web responsivas usando React, Vue.js e Bootstrap para plataformas corporativas e clientes",
+        "Integração de APIs REST com backends Node.js, otimizando fluxo de dados e melhorando tempos de resposta de API em 25%",
+        "Melhoria de performance de websites em 35% através de refatoração de código, estratégias de cache e otimização front-end",
+        "Colaboração em ambiente Agile com designers, QA e equipes de backend, contribuindo para ciclos de release mais rápidos e maior satisfação do cliente"
+      ]
+    },
+    "freelance": {
+      "company": "Freelance",
+      "role": "Front-End Developer & Computer Technician",
+      "location": "Remoto, Brazil",
+      "description": "Trabalhando como freelancer desenvolvendo soluções web personalizadas para pequenas empresas",
+      "achievements": [
+        "Design, desenvolvimento e deploy de soluções web customizadas para pequenas empresas, melhorando visibilidade online e engajamento de clientes",
+        "Construção de interfaces responsivas usando HTML5, CSS3, JavaScript (ES6+) e React para garantir acessibilidade entre dispositivos",
+        "Prestação de suporte técnico contínuo, manutenção e consultoria de hospedagem para clientes"
+      ]
+    }
+  },
+  "education": {
+    "title": "Educação",
+    "subtitle": "Formação acadêmica e técnica em tecnologia da informação, inteligência artificial e machine learning.",
+    "lasalle": {
+      "institution": "Collège LaSalle",
+      "degree": "AEC - Artificial Intelligence and Machine Learning",
+      "location": "Montreal, QC",
+      "description": "Programa técnico focado em inteligência artificial e machine learning",
+      "topics": "Principais tópicos:"
+    },
+    "cotemig1": {
+      "institution": "COTEMIG - Colégio e Faculdade",
+      "degree": "Bacharelado em Sistemas de Informação",
+      "location": "Belo Horizonte, Brazil",
+      "description": "Graduação em sistemas de informação com foco em desenvolvimento web e tecnologia",
+      "topics": "Principais tópicos:"
+    },
+    "cotemig2": {
+      "institution": "COTEMIG - Colégio e Faculdade",
+      "degree": "Técnico em Tecnologia da Informação",
+      "location": "Belo Horizonte, Brazil",
+      "description": "Curso técnico em tecnologia da informação com foco em desenvolvimento front-end",
+      "topics": "Principais tópicos:"
+    }
+  },
+  "tech": {
+    "title": "Stack Tecnológico",
+    "subtitle": "Stack técnico focado em desenvolvimento full-stack, machine learning, inteligência artificial e soluções web modernas.",
+    "categories": {
+      "languages": "Linguagens de Programação",
+      "ml": "Machine Learning & AI",
+      "frontend": "Front-End Development",
+      "backend": "Back-End & APIs",
+      "database": "Banco de Dados",
+      "devops": "DevOps & Deploy"
+    }
+  },
+  "contact": {
+    "title": "Vamos Conectar",
+    "subtitle": "Envie uma mensagem",
+    "description": "Vamos conectar! Estou sempre interessado em ouvir sobre novos projetos e oportunidades.",
+    "name": "Nome",
+    "email": "Email",
+    "subject": "Assunto",
+    "message": "Mensagem",
+    "send": "Enviar Mensagem",
+    "sending": "Enviando...",
+    "success": "Obrigado pela mensagem! Entrarei em contato em breve.",
+    "error": "Erro ao enviar mensagem. Tente novamente.",
+    "contactInfo": "Informações de Contato",
+    "phone": "Telefone",
+    "location": "Localização",
+    "locationValue": "Montreal, QC, Canadá"
+  },
+  "footer": {
+    "copyright": "Todos os direitos reservados."
+  }
+}
+
+

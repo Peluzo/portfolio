@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "education": "Éducation",
+    "tech": "Technologies",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "name": "João Vitor Peluzo Cardoso",
+    "title": "Développeur axé sur l'IA. Full-Stack. Ingénieur en Machine Learning.",
+    "description": "Développeur axé sur l'IA avec une solide expérience en développement full-stack et en machine learning appliqué. Spécialisé dans la construction d'applications web, l'entraînement et l'évaluation de modèles, et la conception de solutions responsives axées sur les données.",
+    "contactBtn": "Me contacter",
+    "resumeBtn": "Voir le CV"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "intro": "Bonjour! Je suis João Vitor Peluzo Cardoso, un Développeur axé sur l'IA avec une solide expérience en développement full-stack et en machine learning appliqué. Mon parcours dans la technologie m'a amené à travailler avec le développement web, l'intelligence artificielle et les solutions axées sur les données, en me concentrant toujours sur la création d'applications innovantes et efficaces.",
+    "paragraph1": "Actuellement basé à Montreal, QC, j'améliore constamment mes compétences en machine learning, développement full-stack, intelligence artificielle et analyse de données. Je travaille avec Python, TensorFlow, React, Vue.js et des frameworks modernes pour construire des solutions complètes qui combinent l'IA et le développement web.",
+    "motivationTitle": "Ce qui me motive",
+    "paragraph2": "Je suis passionné par la construction d'applications intelligentes qui combinent le développement web et le machine learning. Je développe des applications web responsives intégrant des modèles d'IA et des APIs modernes pour créer des solutions axées sur les données. Je participe activement à des projets d'IA et je cherche toujours à me tenir à jour avec les meilleures pratiques de l'industrie. Mon objectif est de créer des solutions technologiques qui ont un impact réel et résolvent des problèmes du monde réel.",
+    "paragraph3": "Avec de l'expérience en développement front-end et back-end, en entraînement de modèles et en déploiement de solutions d'IA, j'apporte une perspective unique aux défis techniques. Je travaille avec des technologies modernes comme React, Vue.js, TensorFlow, FastAPI, en me concentrant toujours sur des solutions pratiques et évolutives. Mon engagement envers l'apprentissage continu me pousse à explorer de nouvelles technologies et méthodologies pour apporter de la valeur grâce à la technologie.",
+    "currentRole": "Rôle actuel",
+    "currentRoleValue": "Stagiaire IA & ML",
+    "company": "Techcolca Inc.",
+    "location": "Localisation",
+    "locationValue": "Montreal, QC",
+    "country": "Canada",
+    "languages": "Langues",
+    "portuguese": "Portugais (Natif)",
+    "english": "Anglais (Professionnel)",
+    "spanish": "Espagnol",
+    "french": "Français",
+    "specialties": "Spécialités",
+    "ml": "Machine Learning",
+    "fullstack": "Développement Full-Stack",
+    "datascience": "Science des données",
+    "aisolutions": "Solutions IA"
+  },
+  "skills": {
+    "title": "Compétences",
+    "subtitle": "Combinant l'expérience en développement full-stack avec l'expertise en machine learning, intelligence artificielle et solutions axées sur les données.",
+    "ml": {
+      "title": "Machine Learning & IA",
+      "description": "Développement et entraînement de modèles de machine learning utilisant TensorFlow, Keras, scikit-learn et YOLOv5. Spécialisé en détection d'objets, traitement de données et optimisation de modèles."
+    },
+    "fullstack": {
+      "title": "Développement Full-Stack",
+      "description": "Construction d'applications web complètes utilisant React, Vue.js, JavaScript (ES6+), HTML5, CSS3 et Bootstrap. Intégration d'APIs REST et WebSocket pour des solutions en temps réel."
+    },
+    "python": {
+      "title": "Python & Science des données",
+      "description": "Développement de solutions d'analyse de données utilisant Python, Pandas, NumPy, Matplotlib et scikit-learn. Automatisation du traitement des données et réduction du temps de prétraitement."
+    },
+    "devops": {
+      "title": "Déploiement & DevOps",
+      "description": "Déploiement et surveillance de modèles dans des environnements de production utilisant FastAPI et Docker. Travail avec des pipelines de déploiement et optimisation des performances."
+    },
+    "database": {
+      "title": "Base de données",
+      "description": "Travail avec MySQL, SQL et bases de données relationnelles. Optimisation des requêtes et intégration des données avec des applications web et des modèles ML."
+    },
+    "performance": {
+      "title": "Optimisation & Performance",
+      "description": "Amélioration des performances des applications web grâce à la refactorisation du code, aux stratégies de mise en cache et à l'optimisation front-end. Réduction des temps de réponse et amélioration de l'expérience utilisateur."
+    }
+  },
+  "experience": {
+    "title": "Expérience",
+    "subtitle": "Expérience en développement full-stack, machine learning et intelligence artificielle, construisant des solutions innovantes qui combinent la technologie web et l'IA.",
+    "techcolca": {
+      "company": "Techcolca Inc.",
+      "role": "Stagiaire IA & ML",
+      "location": "Montreal, QC • Distanciel",
+      "description": "Entreprise de technologie axée sur les solutions d'intelligence artificielle et de machine learning",
+      "achievements": [
+        "Développement de tableaux de bord React interactifs pour la visualisation d'analyses sportives en temps réel, intégrant des APIs RESTful et des flux WebSocket",
+        "Construction et entraînement de modèles de détection d'objets YOLOv5/Ultralytics avec amélioration de précision de +10% utilisant l'augmentation de données et le réglage d'hyperparamètres",
+        "Automatisation du traitement de jeux de données avec Pandas, NumPy et scikit-learn, réduisant le temps de prétraitement manuel de 40%",
+        "Déploiement et surveillance de modèles dans des environnements de production utilisant FastAPI et Docker",
+        "Collaboration avec une équipe multidisciplinaire d'IA sur les tests, l'optimisation et les pipelines de déploiement de modèles"
+      ]
+    },
+    "dialhost": {
+      "company": "DialHost Internet",
+      "role": "Développeur Front-End",
+      "location": "Belo Horizonte, Brésil",
+      "description": "Entreprise d'hébergement et de services Internet axée sur les solutions web d'entreprise",
+      "achievements": [
+        "Conception et maintenance d'applications web responsives utilisant React, Vue.js et Bootstrap pour les plateformes d'entreprise et clients",
+        "Intégration d'APIs REST avec des backends Node.js, optimisant le flux de données et améliorant les temps de réponse des APIs de 25%",
+        "Amélioration des performances des sites web de 35% grâce à la refactorisation du code, aux stratégies de mise en cache et à l'optimisation front-end",
+        "Collaboration dans un environnement Agile avec des concepteurs, QA et des équipes backend, contribuant à des cycles de publication plus rapides et une satisfaction client accrue"
+      ]
+    },
+    "freelance": {
+      "company": "Freelance",
+      "role": "Développeur Front-End & Technicien en informatique",
+      "location": "Distanciel, Brésil",
+      "description": "Travail en tant que freelance développant des solutions web personnalisées pour les petites entreprises",
+      "achievements": [
+        "Conception, développement et déploiement de solutions web personnalisées pour les petites entreprises, améliorant la visibilité en ligne et l'engagement des clients",
+        "Construction d'interfaces responsives utilisant HTML5, CSS3, JavaScript (ES6+) et React pour assurer l'accessibilité entre les appareils",
+        "Prestation de support technique continu, maintenance et consultation d'hébergement pour les clients"
+      ]
+    }
+  },
+  "education": {
+    "title": "Éducation",
+    "subtitle": "Formation académique et technique en technologie de l'information, intelligence artificielle et machine learning.",
+    "lasalle": {
+      "institution": "Collège LaSalle",
+      "degree": "AEC - Intelligence artificielle et Machine Learning",
+      "location": "Montreal, QC",
+      "description": "Programme technique axé sur l'intelligence artificielle et le machine learning",
+      "topics": "Sujets principaux:"
+    },
+    "cotemig1": {
+      "institution": "COTEMIG - Colégio e Faculdade",
+      "degree": "Baccalauréat - Systèmes d'information",
+      "location": "Belo Horizonte, Brésil",
+      "description": "Diplôme de premier cycle en systèmes d'information avec focus sur le développement web et la technologie",
+      "topics": "Sujets principaux:"
+    },
+    "cotemig2": {
+      "institution": "COTEMIG - Colégio e Faculdade",
+      "degree": "Diplôme technique - Technologie de l'information",
+      "location": "Belo Horizonte, Brésil",
+      "description": "Cours technique en technologie de l'information avec focus sur le développement front-end",
+      "topics": "Sujets principaux:"
+    }
+  },
+  "tech": {
+    "title": "Stack technologique",
+    "subtitle": "Stack technique axé sur le développement full-stack, le machine learning, l'intelligence artificielle et les solutions web modernes.",
+    "categories": {
+      "languages": "Langages de programmation",
+      "ml": "Machine Learning & IA",
+      "frontend": "Développement Front-End",
+      "backend": "Back-End & APIs",
+      "database": "Base de données",
+      "devops": "DevOps & Déploiement"
+    }
+  },
+  "contact": {
+    "title": "Restons en contact",
+    "subtitle": "Envoyez-moi un message",
+    "description": "Restons en contact! Je suis toujours intéressé à entendre parler de nouveaux projets et opportunités.",
+    "name": "Nom",
+    "email": "Email",
+    "subject": "Sujet",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Merci pour votre message! Je vous répondrai bientôt.",
+    "error": "Erreur lors de l'envoi du message. Veuillez réessayer.",
+    "contactInfo": "Informations de contact",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "locationValue": "Montreal, QC, Canada"
+  },
+  "footer": {
+    "copyright": "Tous droits réservés."
+  }
+}
+
+
