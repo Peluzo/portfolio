@@ -1,4 +1,5 @@
 import React, { createContext, useState, useContext, useEffect } from 'react'
+import { isSupportedLanguage } from '../constants/languages'
 
 const LanguageContext = createContext()
 
@@ -12,18 +13,24 @@ export const useLanguage = () => {
 
 export const LanguageProvider = ({ children }) => {
   const [language, setLanguage] = useState(() => {
-    // Verifica se há preferência salva no localStorage
     const savedLanguage = localStorage.getItem('language')
-    return savedLanguage || 'pt' // Padrão: português
+    if (savedLanguage && isSupportedLanguage(savedLanguage)) {
+      return savedLanguage
+    }
+    return 'en' // Default: English (pt and fr remain options in the navbar)
   })
 
+  const htmlLang = language === 'pt' ? 'pt-BR' : language === 'fr' ? 'fr' : 'en'
+
   useEffect(() => {
-    // Salva a preferência no localStorage
     localStorage.setItem('language', language)
-  }, [language])
+    document.documentElement.lang = htmlLang
+  }, [language, htmlLang])
 
   const changeLanguage = (lang) => {
-    setLanguage(lang)
+    if (isSupportedLanguage(lang)) {
+      setLanguage(lang)
+    }
   }
 
   return (

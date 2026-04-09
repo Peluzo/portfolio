@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { useLanguage } from '../../contexts/LanguageContext'
 import { getTranslation } from '../../utils/translations'
+import { LANGUAGES } from '../../constants/languages'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -77,8 +78,8 @@ const Navbar = () => {
   ]
 
   const languages = [
-    { code: 'pt', name: 'Português', flag: '🇧🇷' },
     { code: 'en', name: 'English', flag: '🇬🇧' },
+    { code: 'pt', name: 'Português', flag: '🇧🇷' },
     { code: 'fr', name: 'Français', flag: '🇫🇷' }
   ]
 
@@ -95,14 +96,14 @@ const Navbar = () => {
             <button 
               className="language-btn"
               onClick={() => setIsLangMenuOpen(!isLangMenuOpen)}
-              aria-label="Select language"
+              aria-label="Language: English, Portuguese, or French"
             >
               <span>{currentLang?.flag}</span>
               <span className="language-code">{currentLang?.code.toUpperCase()}</span>
             </button>
             {isLangMenuOpen && (
               <div className="language-menu">
-                {languages.map(lang => (
+                {LANGUAGES.map((lang) => (
                   <button
                     key={lang.code}
                     className={`language-option ${language === lang.code ? 'active' : ''}`}

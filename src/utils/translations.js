@@ -10,7 +10,7 @@ const translations = {
 
 export const getTranslation = (language, key) => {
   const keys = key.split('.')
-  let value = translations[language] || translations['pt']
+  let value = translations[language] || translations['en']
   
   for (const k of keys) {
     if (value && value[k]) {
