@@ -38,7 +38,6 @@ const Education = () => {
   const getEducations = () => {
     const dates = {
       lasalle: language === 'pt' ? 'Set 2023 - Ago 2025' : language === 'en' ? 'Sep 2023 - Aug 2025' : 'Sep 2023 - Août 2025',
-      cotemig1: language === 'pt' ? 'Jan 2020 - Dez 2022' : language === 'en' ? 'Jan 2020 - Dec 2022' : 'Jan 2020 - Déc 2022',
       cotemig2: language === 'pt' ? '2017 - 2019' : language === 'en' ? '2017 - 2019' : '2017 - 2019'
     }
 
@@ -51,15 +50,6 @@ const Education = () => {
         descriptionKey: 'education.lasalle.description',
         topicsKey: 'education.lasalle.topics',
         topics: ['Web Development', 'MySQL', 'FastAPI', 'Python', 'Machine Learning', 'Integration', 'Front-End Development', 'GitHub', 'Flask', 'Web Applications']
-      },
-      {
-        date: dates.cotemig1,
-        institutionKey: 'education.cotemig1.institution',
-        degreeKey: 'education.cotemig1.degree',
-        locationKey: 'education.cotemig1.location',
-        descriptionKey: 'education.cotemig1.description',
-        topicsKey: 'education.cotemig1.topics',
-        topics: ['SQL', 'MySQL', 'React.js', 'JavaScript', 'AngularJS', 'PHP', 'HTML5', 'Web Applications', 'WordPress']
       },
       {
         date: dates.cotemig2,
